@@ -1,0 +1,37 @@
+body {
+  background-color: 	goldenrod;
+}
+h1{
+  font-size: 45px;
+}
+p{
+  font-style:italic;
+}
+p{
+  text-decoration: underline;
+}
+#left_container{
+  margin-bottom:425px;
+  background-color: gold; 
+  border: 1px solid orange;
+   display: inline;
+}
+    
+    img {
+      width: 500px;
+      height: 300px;
+  }
+
+#textbox{
+  
+  display:inline-block;
+  width=200px;
+  background-color="red";
+  padding: 10px;
+  border: 10 px solid yellow;
+  border-color: yellow;
+    border-style: solid;
+  border-width: 10 px 5 px 10 px 50 px;
+}
+
+
